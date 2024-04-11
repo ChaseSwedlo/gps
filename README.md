@@ -1,1 +1,1 @@
-This project explores the Mapbox API, try it [here](https://chaseswedlo.github.io/you-are-here/)
+This project explores the Mapbox API, try it [here](https://chaseswedlo.github.io/gps/)
