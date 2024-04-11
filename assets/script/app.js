@@ -59,9 +59,11 @@ function handleLocationUpdate(position) {
     marker.setLngLat([longitude, latitude]);
     map.panTo([longitude, latitude]);
 }
+
 function handleLocationError(error) {
     console.error('Error getting location:', error);
 }
+
 navigator.geolocation.watchPosition(handleLocationUpdate, handleLocationError, {
     enableHighAccuracy: true,
     timeout: 5000, 

@@ -1,1 +1,1 @@
-This project explores the Mapbox API, try it [here](https://chaseswedlo.github.io/gps/)
+This project is a very basic GPS that explores the Mapbox API, try it [here](https://chaseswedlo.github.io/gps/)
